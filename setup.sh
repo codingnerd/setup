@@ -54,3 +54,7 @@ sudo apt-get install -y nodejs
 
 git config --global user.name "Anton Ishmurzin"
 git config --global user.email ishmurzin@gmail.com
+
+# install express module
+npm install express
+
